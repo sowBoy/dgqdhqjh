@@ -1,4 +1,4 @@
-#An Oriented Object API Project for PHP
+**An Oriented Object API Project for PHP**
 
 This is a simple Api that processes a pile of cards to return clear and orderly instructions on a traveler's journey.
 
